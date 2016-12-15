@@ -7,5 +7,5 @@ You can find the CRM at <a href="https://centralstationcrm.de/">centralstationcr
 
 If you have any questions or would like to help develop the implementation, please send an email to falk@wildenradt-media.de.
 
-Have fun
+Have fun<br>
 Falk v. Wildenradt
